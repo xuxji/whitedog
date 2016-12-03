@@ -1,0 +1,2 @@
+# whitedog
+Javascript light library
