@@ -1,0 +1,27 @@
+{
+  "name": "whitedog",
+  "version": "1.0.0",
+  "description": "javascript extends library",
+  "main": "extends.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxji/whitedog.git"
+  },
+  "keywords": [
+    "white",
+    "dog"
+  ],
+  "author": "jerry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuxji/whitedog/issues"
+  },
+  "homepage": "https://github.com/xuxji/whitedog#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
